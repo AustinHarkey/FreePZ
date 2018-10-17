@@ -1,0 +1,67 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "entity.other.attribute-name.class.css",
+                "settings": {
+                    "foreground": "#19f9d8"
+                }
+            },
+
+            {
+                "scope": "support.type.property-name.css",
+                "settings": {
+                    "foreground": "#FFB86C"
+                }
+            },
+            {
+                "scope": "constant.numeric.css",
+                "settings": {
+                    "foreground": "#fff"
+                }
+            },
+            {
+                "scope": "keyword.other.unit.vh.css",
+                "settings": {
+                    "foreground": "#FF2C6D"
+                    
+                }
+            },
+            {
+                "scope": "keyword.other.unit.percentage.css",
+                "settings": {
+                    "foreground": "#FF2C6D"
+                }
+            },
+            {
+                "scope": "support.constant.property-value.css",
+                "settings": {
+                    "foreground": "#FF2C6D"
+                }
+            },
+            {
+                "scope": "keyword.other.unit.px.css",
+                "settings": {
+                    "foreground": "#FF2C6D"
+                }
+            },
+            {
+                "scope": "support.function.url.css",
+                "settings": {
+                    "foreground": "#FF2C6D"
+                }
+            }
+        ]
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
